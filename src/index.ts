@@ -55,7 +55,7 @@ const contributersStats = async (data) => {
 }
 
 const gh = new GitHub({
-    token:'355098fbac284e4029bebfa4518fece03fa5be00' 
+    token:'XXXX' 
  });
 
  
